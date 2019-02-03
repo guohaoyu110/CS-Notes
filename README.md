@@ -3,34 +3,34 @@
     <br>
     <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://img.shields.io/badge/>-read-4ab8a1.svg"></a>  <a href="https://xiaozhuanlan.com/CyC2018"> <img src="https://img.shields.io/badge/_-more-4ab8a1.svg"></a> 
     <br> <br>
-    本仓库包含了技术面试必备的基础知识，这些内容是我从众多计算机经典书籍总结而来，内容浅显易懂，你不需要花很长的时间去阅读和理解成堆的技术书籍就可以快速掌握这些内容，从而节省宝贵的面试复习时间。如果你觉得本仓库对你有帮助，可以考虑订阅我的 <a href="https://xiaozhuanlan.com/CyC2018">专栏</a>，包含了学习指导和面试技巧，让你更轻松拿到满意的 Offer。
+    本项目包含了技术面试必备的基础知识，浅显易懂，你不需要花很长的时间去阅读和理解成堆的技术书籍就可以快速掌握这些知识，从而节省宝贵的面试复习时间。你也可以订阅 <a href="https://xiaozhuanlan.com/CyC2018">面试进阶专栏</a>，包含了学习指导和面试技巧，让你更轻松拿到满意的 Offer。
 </div> 
 
 <br>
 
-## :pencil2: 算法
+## :pencil2: Ⅰ 算法
 
 - [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/剑指%20offer%20题解.md)
 - [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode%20题解.md)
 - [算法](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/算法.md)
 
-## :computer: 操作系统
+## :computer: Ⅱ 操作系统
 
 - [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/计算机操作系统.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Linux.md)
 
-## :cloud: 网络 
+## :cloud: Ⅲ 网络 
 
 - [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/计算机网络.md)
 - [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/HTTP.md)
 - [Socket](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Socket.md)
 
-## :unlock: 面向对象
+## :unlock: Ⅳ 面向对象
 
 - [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/设计模式.md)
 - [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/面向对象思想.md)
 
-## :floppy_disk: 数据库 
+## :floppy_disk: Ⅴ 数据库 
 
 - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/数据库系统原理.md)
 - [SQL](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/SQL.md)
@@ -38,7 +38,7 @@
 - [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/MySQL.md)
 - [Redis](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Redis.md)
 
-## :coffee: Java
+## :coffee: Ⅵ Java
 
 - [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20基础.md)
 - [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20容器.md)
@@ -46,7 +46,7 @@
 - [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20虚拟机.md)
 - [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20IO.md)
 
-## :bulb: 系统设计 
+## :bulb: Ⅶ 系统设计 
 
 - [系统设计基础](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/系统设计基础.md)
 - [分布式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/分布式.md)
@@ -55,39 +55,43 @@
 - [缓存](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/缓存.md)
 - [消息队列](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/消息队列.md)
 
-## :wrench: 工具 
+## :wrench: Ⅷ 工具 
 
 - [Git](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Git.md)
 - [Docker](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Docker.md)
 - [构建工具](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/构建工具.md)
 - [正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/正则表达式.md)
 
-## :mag_right: 编码实践 
+## :art: Ⅸ 编码实践 
 
 - [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/代码可读性.md)
 - [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/代码风格规范.md)
 
-## :memo: 后记 
+## :memo: Ⅹ 后记 
 
-### QQ 群
+### 内推信息
 
-为大家提供一个学习交流平台，在这里你可以自由地和我以及其他人进行技术上的交流。
+[Job-Recommend](https://github.com/CyC2018/Job-Recommend)
 
-<img src="https://github.com/CyC2018/CS-Notes/raw/master/other/group1.png" width="200px"></br>
+### 专栏
+
+[面试进阶指南](https://xiaozhuanlan.com/CyC2018)
 
 ### 知识星球
 
 想要向我提问关于学习和求职方面的建议？来知识星球，你的每个提问我都会认真回答。
 
-[🎓](other/Planet.md)
+[知识星球](other/Planet.md)
 
-### 内推信息
+### QQ 群
 
-[🔎](https://github.com/CyC2018/Job-Recommend)
+为大家提供一个学习交流平台，在这里你可以自由地讨论技术问题。
+
+<img src="https://github.com/CyC2018/CS-Notes/raw/master/other/group1.png" width="200px"></br>
 
 ### 排版
 
-笔记内容按照 中文文案排版指北 进行排版，以保证内容的可读性。笔记不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 GFM 不支持 `<center> ![]() </center>` 让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
+笔记内容按照 [文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版，以保证内容的可读性。笔记不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 GFM 不支持 `<center> ![]() </center>` 让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
 
 我将自己实现的文档排版功能提取出来，放在 Github Page 中，无需下载安装即可免费使用：[Text-Typesetting](https://github.com/CyC2018/Text-Typesetting)。
 
