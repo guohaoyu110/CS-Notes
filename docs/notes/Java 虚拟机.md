@@ -1,4 +1,4 @@
-[🍉 点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
+* [点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
 <!-- GFM-TOC -->
 * [一、运行时数据区域](#一运行时数据区域)
     * [程序计数器](#程序计数器)
@@ -31,7 +31,7 @@
 
 # 一、运行时数据区域
 
-<div align="center"> <img src="pics/11548742157520.gif" width="450"/> </div><br>
+<div align="center"> <img src="pics/b01e12b7-6cfc-485b-a03e-a575e6f7b773.jpg"/> </div><br>
 
 ## 程序计数器
 
@@ -41,7 +41,7 @@
 
 每个 Java 方法在执行的同时会创建一个栈帧用于存储局部变量表、操作数栈、常量池引用等信息。从方法调用直至执行完成的过程，就对应着一个栈帧在 Java 虚拟机栈中入栈和出栈的过程。
 
-<div align="center"> <img src="pics/11548741556940.gif" width="500"/> </div><br>
+<div align="center"> <img src="pics/ff5b89ac-798e-4fbc-b0ce-da2fc2358570.jpg"/> </div><br>
 
 可以通过 -Xss 这个虚拟机参数来指定每个线程的 Java 虚拟机栈内存大小：
 
@@ -60,8 +60,7 @@ java -Xss512M HackTheJava
 
 本地方法一般是用其它语言（C、C++ 或汇编语言等）编写的，并且被编译为基于本机硬件和操作系统的程序，对待这些方法需要特别处理。
 
-
-<div align="center"> <img src="pics/11548742010310.gif"/> </div><br>
+<div align="center"> <img src="pics/1_2001550547261811.png"/> </div><br>
 
 ## 堆
 
@@ -141,7 +140,7 @@ Java 虚拟机使用该算法来判断对象是否可被回收，在 Java 中 GC
 - 方法区中类静态属性引用的对象
 - 方法区中的常量引用的对象
 
-<div align="center"> <img src="pics/11548742505541.gif"/> </div><br>
+<div align="center"> <img src="pics/6dd28bfc-6ef7-47cb-af50-a681ebc1bbaa.png"/> </div><br>
 
 ### 3. 方法区的回收
 
@@ -221,7 +220,8 @@ obj = null;
 
 ### 1. 标记 - 清除
 
-<div align="center"> <img src="pics/11548743021625.gif"/> </div><br>
+<div align="center"> <img src="pics/3_2001550547558008.png"/> </div><br>
+
 
 标记要回收的对象，然后清除。
 
@@ -232,13 +232,15 @@ obj = null;
 
 ### 2. 标记 - 整理
 
-<div align="center"> <img src="pics/11548743193273.gif"/> </div><br>
+
+<div align="center"> <img src="pics/2_2001550547456403.png"/> </div><br>
+
 
 让所有存活的对象都向一端移动，然后直接清理掉端边界以外的内存。
 
 ### 3. 复制
 
-<div align="center"> <img src="pics/11548743457272.gif"/> </div><br>
+<div align="center"> <img src="pics/4_2001550547640585.png"/> </div><br>
 
 将内存划分为大小相等的两块，每次只使用其中一块，当这一块内存用完了就将还存活的对象复制到另一块上面，然后再把使用过的内存空间进行一次清理。
 
@@ -440,7 +442,7 @@ G1 把堆划分成多个大小相等的独立区域（Region），新生代和�
 
 ## 类的生命周期
 
-<div align="center"> <img src="pics/11548744140733.gif"/> </div><br>
+<div align="center"> <img src="pics/303873db-0d11-4683-a43c-f319b7aef2b6.jpg"/> </div><br>
 
 包括以下 7 个阶段：
 
