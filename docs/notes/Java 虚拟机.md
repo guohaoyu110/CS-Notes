@@ -1,4 +1,3 @@
-* [点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
 <!-- GFM-TOC -->
 * [一、运行时数据区域](#一运行时数据区域)
     * [程序计数器](#程序计数器)
@@ -31,7 +30,7 @@
 
 # 一、运行时数据区域
 
-<div align="center"> <img src="pics/b01e12b7-6cfc-485b-a03e-a575e6f7b773.jpg"/> </div><br>
+<div align="center"> <img src="pics/83e9c5ed-35a1-41fd-b0dd-ce571969b5f3_200.png" width="500px"> </div><br>
 
 ## 程序计数器
 
