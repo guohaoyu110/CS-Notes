@@ -567,7 +567,7 @@ public int wiggleMaxLength(int[] nums) {
 
 <!--<div align="center"><img src="https://latex.codecogs.com/gif.latex?dp[i][j]=\left\{\begin{array}{rcl}dp[i-1][j-1]&&{S1_i==S2_j}\\max(dp[i-1][j],dp[i][j-1])&&{S1_i<>S2_j}\end{array}\right."/></div> <br>-->
 
-<div align="center"> <img src="pics/6c0cf1e8-b03f-4eff-9b1a-ab262e0c7866.png"/> </div><br>
+<div align="center"> <img src="pics/ecd89a22-c075-4716-8423-e0ba89230e9a.jpg"/> </div><br>
 
 对于长度为 N 的序列 S<sub>1</sub> 和长度为 M 的序列 S<sub>2</sub>，dp[N][M] 就是序列 S<sub>1</sub> 和序列 S<sub>2</sub> 的最长公共子序列长度。
 
@@ -1223,5 +1223,5 @@ public int minSteps(int n) {
 
 
 
-</br><div align="center">欢迎关注公众号，获取最新文章！</div></br></br>
+</br><div align="center">欢迎关注我的公众号 CyC2018，这里有最核心的高频基础知识面试题，后台回复关键字 📚 “资料” 可领取复习大纲 ，帮你理清多而杂的面试知识点。</div></br>
 <div align="center"><img width="180px" src="https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"></img></div>
