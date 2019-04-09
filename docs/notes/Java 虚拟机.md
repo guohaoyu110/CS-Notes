@@ -234,9 +234,7 @@ obj = null;
 
 ### 2. 标记 - 整理
 
-
 <div align="center"> <img src="https://gitee.com/CyC2018/CS-Notes/raw/master/docs/pics/2_2001550547456403.png"/> </div><br>
-
 
 让所有存活的对象都向一端移动，然后直接清理掉端边界以外的内存。
 
@@ -246,7 +244,7 @@ obj = null;
 
 不足:
 
-- 在标记-清除的基础上还需进行对象的移动，成本相对较高
+- 需要移动大量对象，处理效率比较低。
 
 ### 3. 复制
 
